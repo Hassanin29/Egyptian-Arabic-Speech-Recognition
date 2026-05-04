@@ -1,4 +1,3 @@
-# Egyptian-Arabic-Speech-Recognition
 # Arabic Speech Recognition - Egyptian Dialect (Casablanca Dataset)
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
